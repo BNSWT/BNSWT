@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Yuyang Zhou, a sophomore majored in Computer Science in Tongji University.
+I am Yuyang Zhou, a Junior majored in Computer Science in Tongji University.
 
 
 <!--
