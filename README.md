@@ -5,10 +5,11 @@ I am Yuyang Zhou, a Junior majored in Computer Science in Tongji University.
 Welcome to my GitHub homepage!
 
 - 🌱 I’m currently learning Flutter and Golang.
-- 📫 How to reach me: <p align="left">
+- 📫 How to reach me: 
+
 <a href="https://twitter.com/bonnieswt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bonnieswt" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yuyang zhou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuyang zhou" height="30" width="40" /></a>
-</p>
+<a href="https://www.leetcode.com/bnswt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bnswt" height="30" width="40" /></a>
 
 <!--
 **BNSWT/BNSWT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
