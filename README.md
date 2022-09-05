@@ -4,7 +4,7 @@ I am Yuyang Zhou, a Senior majored in Computer Science in Tongji University🎓.
 
 I’m currently interning in Westlake University🎓, learning AlphaFold2 and protein structure prediction.
 
-Welcome to drop me an email at zhouyuyang712@outlook.com📫
+Welcome to drop me an email at zhouyuyang712[AT]outlook[DOT]com📫
 
 <!--
 **BNSWT/BNSWT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
