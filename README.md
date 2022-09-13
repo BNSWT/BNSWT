@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Yuyang Zhou, a Senior majored in Computer Science in Tongji University🎓.
+I am Yuyang Zhou, a Senior majored in Computer Science in Tongji University🎓. Previous SDE Intern in <img src="https://www.google.com/logos/doodles/2015/googles-new-logo-5078286822539264.3-hp2x.gif" width = "60" height = "25" /> and <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Intel_logo_%282020%2C_light_blue%29.svg" width = "60" height = "20" />.
 
 I’m a Ph.D candidate in Westlake University🎓, learning AlphaFold2 and protein structure prediction.
 
