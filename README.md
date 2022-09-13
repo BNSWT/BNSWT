@@ -2,7 +2,7 @@
 
 I am Yuyang Zhou, a Senior majored in Computer Science in Tongji University🎓.
 
-I’m currently interning in Westlake University🎓, learning AlphaFold2 and protein structure prediction.
+I’m a Ph.D candidate in Westlake University🎓, learning AlphaFold2 and protein structure prediction.
 
 Welcome to drop me an email at zhouyuyang712[AT]outlook[DOT]com📫
 
