@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 <details>
 <summary>More about me</summary>
 
+[![](https://steins-gate-visitor-count.greenhandatsjtu.repl.co/{USERNAME})](https://github.com/greenhandatsjtu/steins-gate-visitor-count)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bnswt" alt="bnswt" /></a> </p>
 
 
