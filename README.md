@@ -6,6 +6,8 @@ I’m a Ph.D candidate in Westlake University🎓, learning AlphaFold2 and prote
 
 Welcome to drop me an email at zhouyuyang712[AT]outlook[DOT]com📫
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&lines=Don't+neglect+your+dreams;Don't+work+too+long;Speak+up+for+ideas;Make+friends;Be+happy)](https://git.io/typing-svg)
+
 <!--
 **BNSWT/BNSWT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
