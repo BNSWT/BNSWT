@@ -6,7 +6,7 @@ Previous SDE Intern in <img src="https://www.google.com/logos/doodles/2015/googl
 
 Also a Ph.D candidate in Westlake University🎓, currently working on Protein Representation Learning.
 
-Welcome to contact me at zhouyuyang712[AT]outlook[DOT]com📫
+Welcome to contact me at zhouyuyang712[AT]outlook[DOT]com📫 if interested.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&lines=Don't+neglect+your+dreams;Don't+work+too+long;Speak+up+for+ideas;Make+friends;Be+happy)](https://git.io/typing-svg)
 
