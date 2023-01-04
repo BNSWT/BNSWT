@@ -1,6 +1,8 @@
 ### Hi there  <img height="20" src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="20"/>
 
-This is Yuyang Zhou, a Senior majored in Computer Science in Tongji University🎓. Previous SDE Intern in <img src="https://www.google.com/logos/doodles/2015/googles-new-logo-5078286822539264.3-hp2x.gif" width = "60" height = "25" /> and <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Intel_logo_%282020%2C_light_blue%29.svg" width = "60" height = "20" />.
+This is Yuyang Zhou, a Senior majored in Computer Science in Tongji University🎓. 
+
+Previous SDE Intern in <img src="https://www.google.com/logos/doodles/2015/googles-new-logo-5078286822539264.3-hp2x.gif" width = "60" height = "25" /> and <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Intel_logo_%282020%2C_light_blue%29.svg" width = "60" height = "20" />.
 
 Also a Ph.D candidate in Westlake University🎓, currently working on Protein Representation Learning.
 
