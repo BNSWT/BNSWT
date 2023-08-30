@@ -1,10 +1,10 @@
 ### Hi there  <img height="20" src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="20"/>
 
-This is Yuyang Zhou, a Senior student of Tongji University🎓, majored in Computer Science. 
+This is Yuyang Zhou, a first year Ph.D student in Westlake University🎓, currently working on AI methods for Protein Design🧬. 
 
-Previous SDE Intern in <img src="https://www.google.com/logos/doodles/2015/googles-new-logo-5078286822539264.3-hp2x.gif" width = "60" height = "25" /> and <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Intel_logo_%282020%2C_light_blue%29.svg" width = "60" height = "20" />.
+Graduated from Tongji University🎓 in 2023, learned basic Computer Science (but not so good) in the past 4 years.
 
-Also a Ph.D candidate in Westlake University🎓, currently working on Protein Representation Learning.
+Previous SDE Intern in <img src="https://www.google.com/logos/doodles/2015/googles-new-logo-5078286822539264.3-hp2x.gif" width = "60" height = "25" /> and <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Intel_logo_%282020%2C_light_blue%29.svg" width = "60" height = "20" />. Knew a little programming and engineering.
 
 Welcome to contact me at zhouyuyang712[AT]outlook[DOT]com📫 if interested.
 
