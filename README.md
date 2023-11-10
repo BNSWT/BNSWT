@@ -1,5 +1,4 @@
-### Hi there  <img height="20" src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="20"/>
-
+### Hi there  👋
 This is Yuyang Zhou, a first year Ph.D student in Westlake University🎓, currently working on AI methods for Protein Design🧬. 
 
 Graduated from Tongji University🎓 in 2023, learned basic Computer Science (but not so good) in the past 4 years.
